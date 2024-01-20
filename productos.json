@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "nombre": "Teclado retro RGB",
+        "precio": 99990
+    },
+    {
+        "id": 2,
+        "nombre": "Mouse TTP",
+        "precio": 49990
+    },
+    {
+        "id": 3,
+        "nombre": "Audifonos inalambricos",
+        "precio": 39990
+    },
+    {
+        "id": 4,
+        "nombre": "Monitor 32 pulgadas Samsung",
+        "precio": 81990
+    },
+    {
+        "id": 5,
+        "nombre": "Cable UTP RJ45 CAT6 100mt",
+        "precio": 120000
+    },
+    {
+        "id": 6,
+        "nombre": "Bolso Notebook 14 pulgadas",
+        "precio": 24990
+    },
+    {
+        "id": 7,
+        "nombre": "Fuente de poder 500W",
+        "precio": 48990
+    },
+    {
+        "id": 8,
+        "nombre": "Impresora Multi Color",
+        "precio": 99990
+    },
+    {
+        "id": 9,
+        "nombre": "MousePad colores",
+        "precio": 7990
+    },
+    {
+        "id": 10,
+        "nombre": "Parlantes PC Pro",
+        "precio": 61990
+    },
+    {
+        "id": 11,
+        "nombre": "Silla Gamer HT",
+        "precio": 79990
+    }
+]
